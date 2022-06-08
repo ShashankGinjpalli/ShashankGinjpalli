@@ -1,6 +1,6 @@
 ## Hi, I'm Shashank 👋
 
-I am currently an Engineering Intern @ General Dynamics Mission Systems and a Masters student @ UC San Diego.
+I am currently an Data Scientist @ Qualcomm and a Masters student @ UC San Diego.
 
 I am passionate about all things technology and am always looking for oppurtunities to grow my skills
 
@@ -8,7 +8,7 @@ I am passionate about all things technology and am always looking for oppurtunit
 
 - 📚 Computer Science MS @ UC San Diego
 - 🗒 Python, Java, C, C++, Swift, HTML, CSS, ReactJs
-- 💻 Tensorflow, .NET, SQL, AWS, Docker
+- 💻 Tensorflow, SQL, AWS, Docker
 
 
 #### Feel Free to Contact Me! 📬
